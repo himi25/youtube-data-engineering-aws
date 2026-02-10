@@ -1,0 +1,1 @@
+SELECT * FROM "AwsDataCatalog"."db_youtube_cleaned"."cleansed_statistics_reference_data" limit 10;
